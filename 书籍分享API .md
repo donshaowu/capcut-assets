@@ -124,7 +124,7 @@ POST /add_videos
   "font_size": 8,
   "line_spacing": 8,
   "text_color": "#F2E8C9",
-  "transform_y": -900,
+  "transform_y": -1000,
   "alignment": 1
 }
 ```
