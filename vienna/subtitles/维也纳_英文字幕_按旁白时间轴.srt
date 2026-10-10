@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:15,373
+“From Schönbrunn Palace, Vienna first reveals the scale of empire. Once the Habsburgs’ summer residence, its palace and gardens preserve the way power shaped everyday life, giving a long history a path we can walk. Beyond the palace, the city continues that memory”
+
+2
+00:00:15,373 --> 00:00:34,372
+“At Hofburg Palace, buildings from different eras connect with one another. For centuries, it served as a residence and administrative center for the Habsburg rulers in Vienna. The city’s classical character was not created in a single moment, but layered over centuries. Here, history is not a backdrop—it is the city’s structure”
+
+3
+00:00:34,372 --> 00:00:54,614
+“At St. Stephen’s Cathedral, medieval structure, Gothic towers, and a colorful roof form Vienna’s most recognizable landmark. People meet, pass through, and wait here, while the old building remains part of daily life. Past and present meet in the same square”
+
+4
+00:00:54,614 --> 00:01:14,347
+“Along the Ringstrasse, the old fortifications were dismantled in the nineteenth century, and the Opera, Parliament, City Hall, and museums opened onto the new boulevard. This is where Vienna’s turn from imperial city to modern metropolis is written. Public life began to unfold on a wider scale”
+
+5
+00:01:14,347 --> 00:01:33,103
+“At Naschmarkt, the distance of palace life disappears. Spices, produce, bread, and prepared food gather along one street. The grand story of the historic center becomes the everyday sound of buying, talking, and sharing lunch. Vienna’s calm is also found in these ordinary pauses”
+
+6
+00:01:33,103 --> 00:01:54,347
+“At MuseumsQuartier, time moves into the present. Historic buildings enclose open courtyards where contemporary art, exhibitions, and young people gathering exist side by side. Vienna does not lock tradition away; it lets old buildings become new cultural vessels, keeping old and new at a natural distance”
+
+7
+00:01:54,347 --> 00:02:17,772
+“As night falls, Prater brings Vienna back to ordinary leisure: tree-lined paths, amusement rides, and the Ferris wheel. What moves the city is not only its preserved history, but the space it leaves for walking, meeting, and simply pausing. When the lights come on, a long history returns to the lives of people”
